@@ -1,0 +1,10 @@
+@import "tailwindcss";
+@config "../tailwind.config.js";
+@import url("https://fonts.googleapis.com/css2?family=Anton&family=Archivo:ital,wght@0,100..900;1,100..900&display=swap");
+
+.stroke-text {
+  /* -webkit-text-stroke: 2px #a5b4fc;  */
+  /* -webkit-text-stroke: 2px #fbbf24; */
+  -webkit-text-stroke: 2px #d6d3c2;
+  color: transparent;
+}
